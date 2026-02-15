@@ -7,11 +7,11 @@ public class Abdogon extends Shape {
         this.abdness = abdness;
     }
 
-    public void set_abdness(String abdness) {
+    public void setAbdness(String abdness) {
         this.abdness = abdness;
     }
 
-    public String get_abdness() {
+    public String getAbdness() {
         return abdness;
     }
 
